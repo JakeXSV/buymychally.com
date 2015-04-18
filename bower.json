@@ -1,0 +1,13 @@
+{
+  "name": "buymychally.com",
+  "version": "1.0.0",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": null,
+    "bootstrap": null,
+    "dw-bxslider-4": null
+  }
+}
